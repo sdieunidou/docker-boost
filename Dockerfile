@@ -16,6 +16,7 @@ RUN apt-get update \
 	libtool \
 	git  \
 	wget \
+	nano \
 	build-essential \
 	libbz2-dev \
 	libicu-dev \
